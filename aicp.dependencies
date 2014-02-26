@@ -1,0 +1,19 @@
+[
+    {
+        "repository": "AOKP/device_samsung_smdk4412-common",
+        "target_path": "device/samsung/smdk4412-common",
+        "remote": "aokp",
+        "branch": "kitkat"
+    },
+    {
+        "repository": "AOKP/kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/smdk4412",
+        "remote": "aokp",
+        "branch": "kitkat"
+    },
+    {
+        "repository": "SlimRoms/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "kk4.4"
+    }
+]
