@@ -2,14 +2,12 @@
     {
         "repository": "AOKP/device_samsung_smdk4412-common",
         "target_path": "device/samsung/smdk4412-common",
-        "remote": "aokp",
         "branch": "kitkat"
     },
     {
-        "repository": "AOKP/kernel_samsung_smdk4412",
+        "repository": "CyanogenMod/android_kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
-        "remote": "aokp",
-        "branch": "kitkat"
+        "branch": "cm-11.0"
     },
     {
         "repository": "AICP/proprietary_vendor_samsung_smdk4412-common",
