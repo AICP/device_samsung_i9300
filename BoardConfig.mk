@@ -63,6 +63,3 @@ TARGET_PROVIDES_CAMERA_HAL := true
 
 # inherit from the proprietary version
 -include vendor/samsung/i9300/BoardConfigVendor.mk
-
-# External apps on SD
-TARGET_EXTERNAL_APPS = sdcard1
