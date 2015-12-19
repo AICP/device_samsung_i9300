@@ -29,7 +29,7 @@ $(call inherit-product, device/samsung/i9300/i9300.mk)
 
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := full_i9300
-PRODUCT_DEVICE := i9300
+PRODUCT_DEVICE := I9300
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := GT-I9300
