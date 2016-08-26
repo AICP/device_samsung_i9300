@@ -27,7 +27,7 @@ ifeq ($(HOST_OS),linux)
 endif
 
 # Bionic
-MALLOC_IMPL := dlmalloc
+MALLOC_SVELTE := true
 
 # RIL
 BOARD_PROVIDES_LIBRIL := true
